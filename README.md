@@ -1,19 +1,27 @@
-Usage
-=====
-    python3 pure_python_stats.py path/to/csv [‑‑json]
-
-=====
-
-=====
-    python3 pandas_stats.py path/to/csv
-=====
-
-======
-    python3 visualisations.py path/to/csv
-=====
 
 
-Summary
+## Usage
+
+1. **Pure-Python stats**
+
+   ```bash
+   python3 pure_python_stats.py path/to/ads.csv [--json]
+   ```
+
+2. **Pandas stats**
+
+   ```bash
+   python3 pandas_stats.py path/to/ads.csv
+   ```
+
+3. **Visualisations**
+
+   ```bash
+   python3 visualisations.py path/to/ads.csv
+   ```
+
+
+## Summary
 
 
 
